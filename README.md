@@ -1,20 +1,19 @@
-# 👋 Hey there, I'm Jay (kuku)!
+# 👋 Hey there, I'm Jay!
 
-I'm a Web3 Community & Marketing Manager with 4+ years of experience in managing and growing strong, engaged communities.  
+I'm a Web3 Community & Marketing Manager with 4+ years of experience managing and growing engaged communities across Discord, Telegram, and X (Twitter).  
 
-From building Discord servers to running marketing campaigns and giveaways, I focus on making Web3 communities more active, informed, and fun.
+From server structuring to marketing campaigns, I focus on making Web3 projects more active, valuable, and human.
 
 ---
 
-## 🌐 What I Do
+## 🚀 What I Do
 
-- 🛠️ Support Ticket Systems (Product & Community)
-- 📢 Marketing Campaign Planning & Execution
-- 🎁 Running Engaging Giveaways
-- 💬 Discord Moderation & Role Setup
-- 🤖 Discord Bot Setup & Server Structuring
-- 🗣️ Announcement & Content Posting (Discord & Twitter)
-- 🤝 Handling Collab Requests & KOL Coordination
+- 🛠️ Product & Community Ticket Systems  
+- 📢 Campaign Strategy & Execution  
+- 🎁 Giveaways & Engagement Tactics  
+- 💬 Discord Mod + Bot Setup  
+- 📣 Content & Announcement Posting  
+- 🤝 Collab / KOL Coordination  
 
 ---
 
@@ -22,29 +21,37 @@ From building Discord servers to running marketing campaigns and giveaways, I fo
 
 | Project | Role | Contributions |
 |--------|------|----------------|
-| **GunStart Metaverse** | Community Mod | Setup support ticket system, ran product feedback loop |
-| **Bitfinity Network** | Community Manager | Managed collabs, ran giveaways, handled Discord announcements |
-| **Dmail Network** | Admin | Handled moderation and supported key partnerships |
-| **Lunaria** | Discord Moderator | Moderated Discord, supported daily community chats |
-| **Solmoon** | Discord Manager | Setup complete Discord server, added bots, and managed structure end-to-end |
+| **GunStart Metaverse** | Community Mod | Ticket system, feedback loop |
+| **Bitfinity Network** | Community Manager | Collabs, giveaways, Discord posting |
+| **Dmail Network** | Admin | Moderation, partnership support |
+| **Lunaria** | Discord Moderator | Daily modding + chats |
+| **Solmoon** | Discord Manager | Full server + bot setup |
+
+---
+
+## 📂 What’s Inside This Repo
+
+- `📂 ticket-system/` — Support SOPs  
+- `📢 marketing-campaigns/` — Dmail & Bitfinity formats  
+- `⚙️ discord-setup/` — Solmoon setup + bot list  
+- `📣 announcements/` — Sample comms lines
 
 ---
 
 ## 🧰 Tools I Work With
 
-- Bots: MEE6, Carl-bot, Dyno, Wick  
-- Forms: Tally, Google Forms, Typeform  
-- Org: Notion, Sheets, Trello  
-- Design: Canva, Figma (basic)
-- Marketing: X (Twitter), Zealy, Notion, Guild
+- 🛡️ MEE6, Wick, Carl-bot, GiveawayBot  
+- 📊 Notion, Sheets, Trello  
+- 🧠 Zealy, Guild, Tally  
+- 🎨 Canva, Figma (basic)
 
 ---
 
-## 🔗 Let’s Connect
+## 🔗 Connect with Me
 
-- [X (Twitter)](https://x.com/kuku7343?s=21)
-- [LinkedIn](https://www.linkedin.com/in/patel-jay-908a30151?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- [X (Twitter)](https://x.com/kuku7343?s=21)  
+- [LinkedIn](https://www.linkedin.com/in/patel-jay-908a30151)
 
 ---
 
-> 📌 Explore my repos to check out moderation guides, event templates, ticket SOPs, and campaign formats I’ve used with real teams.
+> 💡 Explore the folders above to see real templates & formats I’ve used in live projects.
