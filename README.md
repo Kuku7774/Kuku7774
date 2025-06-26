@@ -1,65 +1,39 @@
-# 👋 Hey there, I'm Jay!
+<h1 align="center">Hey, I'm Patel Jay 👋</h1>
+<h3 align="center">Web3 Community & Social Media Manager</h3>
 
-I'm a Web3 Community & Marketing Manager with 4+ years of experience managing and growing engaged communities across Discord, Telegram, and X (Twitter).  
-
-From server structuring to marketing campaigns, I focus on making Web3 projects more active, valuable, and human.
-
----
-
-## 🚀 What I Do
-
-- 🛠️ Product & Community Ticket Systems  
-- 📢 Campaign Strategy & Execution  
-- 🎁 Giveaways & Engagement Tactics  
-- 💬 Discord Mod + Bot Setup  
-- 📣 Content & Announcement Posting  
-- 🤝 Collab / KOL Coordination  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kuku7774/Kuku7774/main/banner.png" alt="Banner" width="100%" />
+</p>
 
 ---
 
-## 💼 Projects I’ve Worked On
+### 💼 About Me
 
-| Project | Role | Contributions |
-|--------|------|----------------|
-| **GunStart Metaverse** | Community Mod | Ticket system, feedback loop |
-| **Bitfinity Network** | Community Manager | Collabs, giveaways, Discord posting |
-| **Dmail Network** | Admin | Moderation, partnership support |
-| **Lunaria** | Discord Moderator | Daily modding + chats |
-| **Solmoon** | Discord Manager | Full server + bot setup |
+- 🧑‍💻 Web3 Community & Social Specialist with 3+ years experience  
+- 🚀 Worked with Bitfinity, Dmail, Solmoon, GunStart  
+- 🎯 Skilled in support systems, ticket handling, Discord setup & content planning  
+- 🔧 Tools: Zealy, Guild.xyz, Notion, Typefully, MEE6, Carl-bot
 
 ---
 
-## 📁 What’s Inside
+### 📂 Featured GitHub Portfolios
 
-### 🎫 Ticket System  
-[`ticket-system/ticket-sop.md`](ticket-system/ticket-sop.md) – Structured ticket flow for user support and bug tracking.
+🔹 [Web3 Community Manager Portfolio](https://github.com/Kuku7774/community-resources-jay-Kuku-)  
+Includes ticket systems, giveaway formats, Discord structure & bots.
 
-### 🎁 Giveaway Strategy  
-[`marketing-campaigns/giveaway-strategy.md`](marketing-campaigns/giveaway-strategy.md) – Giveaway planning, execution steps, and best practices.
-
-### 📢 Announcement Samples  
-[`announcements/announcement-samples.md`](announcements/announcement-samples.md) – Professional announcement formats for launches, updates, and public reminders.
-
-### 🤖 Solmoon Discord Setup  
-[`discord-setup/solmoon-setup.md`](discord-setup/solmoon-setup.md) – Full Discord server structure, bot configs, and ongoing moderation tactics.
-
-### 🤖 Bot List  
-[`discord-setup/bot-list.md`](discord-setup/bot-list.md) – Essential bots and setup tips for moderation, leveling, and security.
-
-## 🧰 Tools I Work With
-
-- 🛡️ MEE6, Wick, Carl-bot, GiveawayBot  
-- 📊 Notion, Sheets, Trello  
-- 🧠 Zealy, Guild, Tally  
-- 🎨 Canva, Figma (basic)
+🔹 [Web3 Social Media Strategy](https://github.com/Kuku7774/social-media-strategy)  
+Post planner, caption guide, DM collab templates & growth reporting.
 
 ---
 
-## 🔗 Connect with Me
+### 💬 Connect With Me
 
-- [X (Twitter)](https://x.com/kuku7343?s=21)  
-- [LinkedIn](https://www.linkedin.com/in/patel-jay-908a30151)
+- 💼 [LinkedIn](https://linkedin.com/in/patel-jay-908a30151)  
+- 🧾 [Resume](https://github.com/Kuku7774/community-resources-jay-Kuku-/blob/main/Patel_Jay_Community_Manager_CV_Final.docx)  
+- 📩 Email: jaypatel79414@gmail.com
 
 ---
 
-> 💡 Explore the folders above to see real templates & formats I’ve used in live projects.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kuku7774&label=Profile%20Views&color=0e75b6&style=flat" alt="Kuku7774" />
+</p>
