@@ -24,6 +24,9 @@ Includes ticket systems, giveaway formats, Discord structure & bots.
 🔹 [Web3 Social Media Strategy](https://github.com/Kuku7774/social-media-strategy)  
 Post planner, caption guide, DM collab templates & growth reporting.
 
+🧠 [Crypto Onboarding Guide](https://github.com/Kuku7774/Crypto-Onboarding-Guide-)  
+Simplified wallet setup, bridging safety, beginner tools & mod-ready onboarding messages for Web3 users.
+
 ---
 
 ### 💬 Connect With Me
